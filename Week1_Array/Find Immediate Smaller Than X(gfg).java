@@ -1,3 +1,6 @@
+/*           Q link:  https://practice.geeksforgeeks.org/problems/find-immediate-smaller-than-x/1/          */
+
+
 class Solution
 {
     // Complete the function
