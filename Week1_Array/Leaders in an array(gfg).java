@@ -1,4 +1,7 @@
 
+/*      Q link: https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1      */
+
+
 class Solution{
     //Function to find the leaders in the array.
     static ArrayList<Integer> leaders(int arr[], int n){
