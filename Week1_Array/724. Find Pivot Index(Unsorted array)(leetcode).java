@@ -20,7 +20,7 @@ class Solution {
         }
         
              if(tsum-nums[0]==0) // if sum of array on right of index 0 is 0, then return index 0 as left is considered to be 0
-                return 0;
+                return 0; // If the index is on the left edge of the array, then the left sum is 0 because there are no elements to the left
             
         for(int i=1;i<nums.length;i++)
         {
